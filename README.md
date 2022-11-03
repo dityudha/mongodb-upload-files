@@ -10,21 +10,21 @@ In the project directory, you can run:
 ### Install and start mongodb client (local)
 
 Create new database using command:<br/>
-use mydb2
+# use mydb2<br/>
 ![Capture](https://user-images.githubusercontent.com/33762836/199647555-1a35f864-7959-4eb9-b00a-353a7fc51dfa.PNG)<br/>
 <br/>
-or you can use your own name DB, just simply change DB name on config/db.js<br/>
+or you can use your own name DB, just simply change DB name on **config/db.js**<br/>
 ![4](https://user-images.githubusercontent.com/33762836/199648287-450596d1-7acd-49a1-acd8-eb9e3a4adf82.PNG)<br/>
 
 ### Install node_modules
 
 Go to project directory and run this command:<br/>
-npm install
+**npm install
 
 ### Start Apps
 
 Go to project directory and run this command:<br/>
-node src\server.js<br/>
+**node src\server.js<br/>
 
 Insert images sample<br/>
 ![1](https://user-images.githubusercontent.com/33762836/199648498-bdbbe4a6-83b4-4092-bbf7-637475fbe21a.PNG)
