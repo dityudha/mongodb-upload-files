@@ -19,12 +19,12 @@ or you can use your own name DB, just simply change DB name on **config/db.js**<
 ### Install node_modules
 
 Go to project directory and run this command:<br/>
-**npm install
+**npm install**
 
 ### Start Apps
 
 Go to project directory and run this command:<br/>
-**node src\server.js<br/>
+**node src\server.js**<br/>
 
 Insert images sample<br/>
 ![1](https://user-images.githubusercontent.com/33762836/199648498-bdbbe4a6-83b4-4092-bbf7-637475fbe21a.PNG)
